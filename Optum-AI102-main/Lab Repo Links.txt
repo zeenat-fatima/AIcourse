@@ -1,0 +1,8 @@
+The lab files for course AI-102 are distributed across multiple repo's:
+
+1. https://github.com/MicrosoftLearning/mslearn-ai-services
+2. https://github.com/MicrosoftLearning/mslearn-ai-vision
+3. https://github.com/MicrosoftLearning/mslearn-ai-language
+4. https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence
+5. https://github.com/MicrosoftLearning/mslearn-knowledge-mining
+6. https://github.com/MicrosoftLearning/mslearn-openai
